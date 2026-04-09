@@ -8,7 +8,7 @@
 
 ## 1. Role & Đóng góp cá nhân (10 điểm)
 
-**Vai trò trong nhóm:** ___
+**Vai trò trong nhóm:** Người đưa ra ý tưởng,khung công việc, và chỉnh sửa các phần việc của mọi người 
 
 **Các phần tôi trực tiếp làm:**
 
@@ -45,7 +45,6 @@ Chia việc rõ ràng và cụ thể hơn các thành viên trong team
 
 ### Kết nối với bản thân — AI product thinking áp dụng vào đâu tiếp theo
 
-___
-
+Với dự án nhóm đang làm
 ---
 
